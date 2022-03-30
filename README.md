@@ -8,7 +8,9 @@ If you want to install it follow the corresponding instructions for your operati
 - WINDOWS
 
 https://docs.microsoft.com/es-es/windows/dev-environment/javascript/react-native-for-windows
+
 and
+
 https://docs.microsoft.com/es-es/windows/dev-environment/javascript/react-native-for-android
 
 - MAC/OSX LINUX

@@ -6,6 +6,7 @@ It seems some components maybe are incorrectly imported cause it is giving an ex
 If you want to install it follow the corresponding instructions for your operative system:
 
 - WINDOWS
+
 https://docs.microsoft.com/es-es/windows/dev-environment/javascript/react-native-for-windows
 and
 https://docs.microsoft.com/es-es/windows/dev-environment/javascript/react-native-for-android
